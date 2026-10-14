@@ -5,7 +5,7 @@ A curated list of free system design resources on the Internet: videos, articles
 ## YouTube channels & playlists
 
 - Gaurav Sen — System design, scalable systems, and interview walkthroughs.
-  https://www.youtube.com/@GauravSensei
+  https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw
 - Back To Back SWE — Focused system design and algorithm interviews with diagrams and step-by-step solutions.
   https://www.youtube.com/c/BackToBackSWE
 
